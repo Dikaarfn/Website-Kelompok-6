@@ -1,0 +1,101 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+/* HEADER */
+
+.Header {
+    width: 100%;
+    height: 170px;
+    border: 1px solid #000000;
+    background-image: url(https://i.pinimg.com/originals/24/ba/2e/24ba2e8167291c3b404c0a9dc86871a7.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Judul {
+    margin-left: 143px;
+    text-align: center;
+    color: #000000;
+    font-family: sans-serif;
+}
+
+/* Register Menu */
+
+.Register{
+    position: relative;
+    float: right;
+    
+}
+
+.Register ul{
+    margin: 15px;
+    padding: 0;
+    list-style-type: none;
+}
+
+.Register ul li{
+    display: inline-block;
+}
+
+.Register ul li a{
+    padding: 5px;
+    text-decoration: none;
+    color: #FFFFFF;
+    background-color: #000000;
+}
+
+/* Search Menu */
+
+.searchbox {
+    margin: 25px;
+    text-align: center;
+}
+
+.searchbox .search-txt{
+    width: 250px;
+    height: 25px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.searchbox .search-btn{
+    width: 75px;
+    height: 25px;
+}
+
+/* Menu Tab */
+
+.Subtab ul {
+    margin-right: 40px;
+    list-style-type: none;
+    text-align: center;
+}
+
+.Subtab ul li {
+    cursor: pointer;
+    display: inline-block;
+}
+
+.Subtab ul li a {
+    text-decoration: none;
+    padding: 5px 20px;
+    border: 1px solid #000000;
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+/* Main */
+
+.container{
+    height: 500px;
+    margin: 65px;
+    padding: 125px;
+    text-align: center;
+    background-color: aquamarine;
+    border: 1px solid #000000;
+}
