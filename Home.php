@@ -52,6 +52,7 @@
                 <dd>Piyama</dd>
                 <dd>Dress</dd>
                 <dd>Kaos</dd>
+                <dd>Sepatu</dd>
                 <dd></dd>
                 <dt>Celana</dt>
                 <dd>Celana Jeans</dd>
